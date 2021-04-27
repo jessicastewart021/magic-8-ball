@@ -1,4 +1,4 @@
-# todds-tales
+# magic-8-ball
 
 ## Project setup
 ```
